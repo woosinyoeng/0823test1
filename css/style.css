@@ -53,7 +53,7 @@ html,body {
 
 
 .footer{ background-color: black;padding: 40px 0; }
-.f_wrap{width: 95%; max-width: 1180px; padding: 100px;margin: 0 auto;}
+.f_wrap{width: 95%; max-width: 1180px; margin: 0 auto;}
 .f_logo{font-size: 24px; font-weight: bold; letter-spacing: 3px; color: #ddd; text-align: center; margin: 30px;}
 .f_top{border-bottom: 1px solid #ddd; padding: 10px;}
 .f_menu{display: flex; justify-content: space-evenly; align-items: center;}
