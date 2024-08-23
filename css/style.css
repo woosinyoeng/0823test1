@@ -84,7 +84,7 @@ html,body {
 .gnb{background-color: #eee;}
 .gnb>li{margin: 5px 15px;}
 .nav{height: 80px;}
-.logo{ margin-left: 45%;}
+.logo{ margin-left: 43%;}
 
 .m_btn{width: 50px; height: 30px; display: flex; flex-direction: column; justify-content: space-around; align-items: center; cursor: pointer; margin-right: 15px;}
 .m_btn>span{width: 30px; border-top: 2px solid black;}
